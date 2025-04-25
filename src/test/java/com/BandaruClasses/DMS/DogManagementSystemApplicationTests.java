@@ -1,4 +1,4 @@
-package com.patterns.DMS;
+package com.BandaruClasses.DMS;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
