@@ -1,4 +1,4 @@
-package com.patterns.DMS.Controllers;
+package com.Bandaruclasses.DMS.Controllers;
 
 import java.util.List;
 import java.util.Optional;
@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.patterns.DMS.Models.Dog;
-import com.patterns.DMS.Models.Trainer;
-import com.patterns.DMS.repository.DogRepository;
-import com.patterns.DMS.repository.TrainerRepository;
+import com.Bandaruclasses.DMS.Models.Dog;
+import com.Bandaruclasses.DMS.Models.Trainer;
+import com.Bandaruclasses.DMS.repository.DogRepository;
+import com.Bandaruclasses.DMS.repository.TrainerRepository;
 
 @Controller
 public class DogController {

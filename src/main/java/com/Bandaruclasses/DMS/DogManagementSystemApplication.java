@@ -1,4 +1,4 @@
-package com.patterns.DMS;
+package com.Bandaruclasses.DMS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
